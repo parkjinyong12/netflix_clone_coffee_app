@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "978506854988",
+    "project_id": "mytimemanager-63562",
+    "storage_bucket": "mytimemanager-63562.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978506854988:android:9d9489a4325698f2b4bae9",
+        "android_client_info": {
+          "package_name": "com.example.netflix_clone_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978506854988-5e2h0porbs2si2o8si4jm5nfsraepuqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.netflix_clone_app",
+            "certificate_hash": "785f415cc33d072d8a007e5f02b33725b2147b45"
+          }
+        },
+        {
+          "client_id": "978506854988-l15ha7gt39eliidov8pgdkflisdscqog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChHbtJRUsKm3AM0bK4os60-UMlaJJnTX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978506854988-l15ha7gt39eliidov8pgdkflisdscqog.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "978506854988-sck2qgik6d7usturfgrmeje21sjmitg2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.netflixCloneApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
